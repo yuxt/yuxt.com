@@ -1,0 +1,15 @@
+
+body {
+    margin: 0;
+    height: 100vh;
+    background-image: url('path_to_your_image.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.hidden-text {
+    position: absolute;
+    top: -9999px;
+    left: -9999px;
+}
